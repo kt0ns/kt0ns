@@ -1,16 +1,33 @@
-## Hi there 👋
+## **Golang Developer · ITMO University · 2nd-year CT Student**
 
-<!--
-**kt0ns/kt0ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; flex-direction: column; gap: 5px;">
+  <div>
+    CV: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Google Docs</a>
+  </div>
+  <div>
+    Mail: <a href="mailto:kt0ns.learning@gmail.com">kt0ns.learning@gmail.com</a>
+  </div>
+  <div>
+    Telegram: <a href="https://t.me/kt0ns" target="_blank">@kt0ns</a>
+  </div>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+---
+
+
+
+
+## Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
