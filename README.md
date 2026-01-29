@@ -45,9 +45,3 @@
   _Tech:_ C++, CMake.
 - **FAT-manager** — Desktop-приложение для просмотра образов дисков (FAT16/32).  
   _Tech:_ C++, Qt.
-- **mips-one-cycle** — Однотактовый MIPS CPU на Verilog.  
-  _Tech:_ Verilog, цифровая логика.
-- **expr-parser** — Парсер арифметических выражений с обработкой ошибок.  
-  _Tech:_ Java, OOP.
-- **labs-math** — Набор лабораторных работ по математическому анализу (визуализация, численные методы).  
-  _Tech:_ Python, NumPy, Matplotlib, Jupyter.
