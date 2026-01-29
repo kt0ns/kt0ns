@@ -1,14 +1,19 @@
 ## **Golang Developer · ITMO University · 2nd-year CT Student**
 
-<div style="display: flex; flex-direction: column; gap: 5px;">
+<div style="display: flex; gap: 30px; align-items: center; flex-wrap: wrap;">
   <div>
-    CV: <a href="https://drive.google.com/file/d/1-Zl8ec3EH_hTxoiGlbANxl_LoytVMnxJ/view?usp=sharing" target="_blank">Google Disk</a>
+    <strong style="display: inline-block; width: 80px;">CV:</strong>
+    <a href="https://drive.google.com/file/d/1-Zl8ec3EH_hTxoiGlbANxl_LoytVMnxJ/view?usp=sharing" target="_blank">
+      Google Disk
+    </a>
   </div>
   <div>
-    Mail: <a href="mailto:kt0ns.learning@gmail.com">kt0ns.learning@gmail.com</a>
+    <strong style="display: inline-block; width: 80px;">Mail:</strong>
+    <a href="mailto:kt0ns.learning@gmail.com">kt0ns.learning@gmail.com</a>
   </div>
   <div>
-    Telegram: <a href="https://t.me/kt0ns" target="_blank">@kt0ns</a>
+    <strong style="display: inline-block; width: 80px;">Telegram:</strong>
+    <a href="https://t.me/kt0ns" target="_blank">@kt0ns</a>
   </div>
 </div>
 
