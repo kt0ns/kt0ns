@@ -33,21 +33,21 @@
 
 ## Проекты
 
-- **CTash** — Сервис-хранилище задач и решений, наполненное сообществом.
+- **CTash** — Сервис-хранилище задач и решений, наполненное сообществом.  
   _Tech:_ Go, SQL/NoSQL, Approximate Search, LLM.
-- **routine-optimizer** — Telegram-бот для оптимизации расписания (микросервисы, gRPC).
+- **routine-optimizer** — Telegram-бот для оптимизации расписания (микросервисы, gRPC).  
   _Tech:_ Go, gRPC, Python, Google Calendar API, Docker.
-- **PR-reviewer-service** — Микросервис для автоматического назначения ревьюеров на PR.
+- **PR-reviewer-service** — Микросервис для автоматического назначения ревьюеров на PR.  
   _Tech:_ Go, PostgreSQL, REST, Docker.
-- **network-crawler** — Высокопроизводительный HTTP-сервер для параллельного обхода URL.
+- **network-crawler** — Высокопроизводительный HTTP-сервер для параллельного обхода URL.  
   _Tech:_ Go, concurrency patterns.
-- **NDArray** — Библиотека для работы с многомерными массивами (аналог NumPy).
+- **NDArray** — Библиотека для работы с многомерными массивами (аналог NumPy).  
   _Tech:_ C++, CMake.
-- **FAT-manager** — Desktop-приложение для просмотра образов дисков (FAT16/32).
+- **FAT-manager** — Desktop-приложение для просмотра образов дисков (FAT16/32).  
   _Tech:_ C++, Qt.
-- **mips-one-cycle** — Однотактовый MIPS CPU на Verilog.
+- **mips-one-cycle** — Однотактовый MIPS CPU на Verilog.  
   _Tech:_ Verilog, цифровая логика.
-- **expr-parser** — Парсер арифметических выражений с обработкой ошибок.
+- **expr-parser** — Парсер арифметических выражений с обработкой ошибок.  
   _Tech:_ Java, OOP.
-- **labs-math** — Набор лабораторных работ по математическому анализу (визуализация, численные методы).
+- **labs-math** — Набор лабораторных работ по математическому анализу (визуализация, численные методы).  
   _Tech:_ Python, NumPy, Matplotlib, Jupyter.
