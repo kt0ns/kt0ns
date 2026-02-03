@@ -35,7 +35,7 @@
 
 - **CTash** — Сервис-хранилище задач и решений, наполненное сообществом.  
   _Tech:_ Go, SQL/NoSQL, Approximate Search, LLM.
-- **routine-optimizer** — Telegram-бот для оптимизации расписания (микросервисы, gRPC).  
+- **[routine-optimizer](https://github.com/wilsonSev/calendar-management)** — Telegram-бот для оптимизации расписания (микросервисы, gRPC).  
   _Tech:_ Go, gRPC, Python, Google Calendar API, Docker.
 - **PR-reviewer-service** — Микросервис для автоматического назначения ревьюеров на PR.  
   _Tech:_ Go, PostgreSQL, REST, Docker.
