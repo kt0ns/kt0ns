@@ -37,11 +37,11 @@
   _Tech:_ Go, SQL/NoSQL, Approximate Search, LLM.
 - **[routine-optimizer](https://github.com/wilsonSev/calendar-management)** — Telegram-бот для оптимизации расписания (микросервисы, gRPC).  
   _Tech:_ Go, gRPC, Python, Google Calendar API, Docker.
-- **PR-reviewer-service** — Микросервис для автоматического назначения ревьюеров на PR.  
+- **[PR-reviewer-service](https://github.com/kt0ns/Reviewer-Service)** — Микросервис для автоматического назначения ревьюеров на PR.  
   _Tech:_ Go, PostgreSQL, REST, Docker.
-- **network-crawler** — Высокопроизводительный HTTP-сервер для параллельного обхода URL.  
+- **[network-crawler](https://github.com/kt0ns/GoNetCrawler)** — Высокопроизводительный HTTP-сервер для параллельного обхода URL.  
   _Tech:_ Go, concurrency patterns.
-- **NDArray** — Библиотека для работы с многомерными массивами (аналог NumPy).  
+- **[NDArray](https://github.com/skkv-cpp/ct-cpp25-ndarray-kt0ns)** — Библиотека для работы с многомерными массивами (аналог NumPy).  
   _Tech:_ C++, CMake.
-- **FAT-manager** — Desktop-приложение для просмотра образов дисков (FAT16/32).  
+- **[FAT-manager](https://github.com/kt0ns/FAT_manager)** — Desktop-приложение для просмотра образов дисков (FAT16/32).  
   _Tech:_ C++, Qt.
