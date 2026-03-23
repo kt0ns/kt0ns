@@ -35,7 +35,7 @@
 
 - **[gitfame](https://github.com/kt0ns/gitfame)** — CLI-инструмент для анализа Git-репозиториев с обработкой терминального вывода и статистикой по авторам.  
   _Tech:_ Go, CLI, Git, Clean Architecture.
-- **[routine-optimizer](https://github.com/wilsonSev/calendar-management)** — Telegram-бот для оптимизации расписания (микросервисы, gRPC).  
+- **[calendar-manager](https://github.com/wilsonSev/calendar-management)** — Telegram-бот для оптимизации расписания (микросервисы, gRPC).  
   _Tech:_ Go, gRPC, Python, Google Calendar API, Docker, PostgreSQL.
 - **[PR-reviewer-service](https://github.com/kt0ns/Reviewer-Service)** — Микросервис для автоматического назначения ревьюеров на PR.  
   _Tech:_ Go, PostgreSQL, REST, Docker.
