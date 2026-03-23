@@ -33,14 +33,16 @@
 
 ## Проекты
 
-- **CTash** — Сервис-хранилище задач и решений, наполненное сообществом.  
-  _Tech:_ Go, SQL/NoSQL, Approximate Search, LLM.
+- **[gitfame](https://github.com/kt0ns/gitfame)** — CLI-инструмент для анализа Git-репозиториев с обработкой терминального вывода и статистикой по авторам.  
+  _Tech:_ Go, CLI, Git, Clean Architecture.
 - **[routine-optimizer](https://github.com/wilsonSev/calendar-management)** — Telegram-бот для оптимизации расписания (микросервисы, gRPC).  
-  _Tech:_ Go, gRPC, Python, Google Calendar API, Docker.
+  _Tech:_ Go, gRPC, Python, Google Calendar API, Docker, PostgreSQL.
 - **[PR-reviewer-service](https://github.com/kt0ns/Reviewer-Service)** — Микросервис для автоматического назначения ревьюеров на PR.  
   _Tech:_ Go, PostgreSQL, REST, Docker.
 - **[network-crawler](https://github.com/kt0ns/GoNetCrawler)** — Высокопроизводительный HTTP-сервер для параллельного обхода URL.  
   _Tech:_ Go, concurrency patterns.
+- **CTash** — Сервис-хранилище задач и решений, наполненное сообществом.  
+  _Tech:_ Go, SQL/NoSQL, Approximate Search, LLM.
 - **[NDArray](https://github.com/skkv-cpp/ct-cpp25-ndarray-kt0ns)** — Библиотека для работы с многомерными массивами (аналог NumPy).  
   _Tech:_ C++, CMake.
 - **[FAT-manager](https://github.com/kt0ns/FAT_manager)** — Desktop-приложение для просмотра образов дисков (FAT16/32).  
